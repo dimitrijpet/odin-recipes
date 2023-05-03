@@ -1,0 +1,15 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "This is the first asignment in HTML Part of Odin foundations lessons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
